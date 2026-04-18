@@ -1,7 +1,7 @@
 
 # IA para Otimização da Comunicação Interna
 
-## Summary
+## Sumário
 
 Este projeto apresenta um sistema baseado em inteligência artificial concebido para melhorar a comunicação interna e o envolvimento dos colaboradores dentro das organizações. A comunicação eficaz desempenha um papel fundamental na produtividade, colaboração e satisfação geral no local de trabalho. No entanto, muitas empresas enfrentam desafios como mensagens pouco claras, excesso de informação, falta de feedback e baixo envolvimento dos colaboradores. Este sistema pretende resolver esses problemas através da utilização de inteligência artificial para analisar padrões de comunicação e fornecer insights acionáveis.
 
@@ -21,7 +21,7 @@ A minha motivação pessoal para esta ideia surge do meu interesse pela comunica
 
 Este tema é simultaneamente importante e interessante porque a comunicação desempenha um papel fundamental em qualquer organização. Uma comunicação deficiente pode afetar negativamente o desempenho das equipas e os resultados das empresas. Ao mesmo tempo, é um tema interessante porque combina tecnologia e comportamento humano, demonstrando como a inteligência artificial pode ser aplicada para melhorar processos e ajudar as pessoas a trabalhar de forma mais eficiente e colaborativa.
 
-## How is it used?
+## Como se utiliza?
 
 O processo de utilização desta solução de inteligência artificial começa com a recolha de dados provenientes de diferentes canais de comunicação interna, como emails, plataformas de chat, inquéritos e feedback dos colaboradores. Estes dados são depois analisados pelo sistema através de algoritmos de machine learning, com o objetivo de identificar padrões, falhas na comunicação e áreas onde o envolvimento dos colaboradores é reduzido. Com base nesta análise, o sistema gera recomendações para melhorar a comunicação, como sugerir mensagens mais claras, melhores canais de comunicação e momentos mais adequados para partilhar informação. Ao longo do tempo, o sistema aprende continuamente com novos dados e interações dos utilizadores, aumentando a precisão e relevância das suas sugestões.
 
@@ -30,28 +30,7 @@ Esta solução é especialmente útil em ambientes de trabalho modernos, onde a 
 Os principais utilizadores deste sistema são empresas, gestores, equipas de recursos humanos e colaboradores. Os gestores e as equipas de recursos humanos podem utilizá-lo para melhorar os processos internos e o envolvimento dos colaboradores, enquanto os colaboradores beneficiam de uma comunicação mais clara e eficaz. Ao desenvolver esta solução, é importante considerar as necessidades dos utilizadores, como a privacidade, a facilidade de utilização e a acessibilidade. O sistema deve garantir a proteção de dados sensíveis e assegurar que a interface é simples e intuitiva para todos os utilizadores.
 
 
-
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
-## Data sources and AI methods
+## Fontes de dados e métodos de IA
 
 Os dados para este projeto proviriam de fontes internas da empresa. Isto inclui dados de comunicação, tais como e-mails, mensagens de chat, plataformas internas, inquéritos e feedback dos colaboradores. Estes dados seriam recolhidos diretamente pela organização, com o consentimento e o conhecimento dos colaboradores.
 
@@ -59,12 +38,8 @@ Para além dos dados recolhidos internamente, o sistema poderia também utilizar
 
 É importante garantir que todos os dados sejam recolhidos e utilizados de forma responsável e ética. Isto inclui proteger a privacidade dos colaboradores, tornar anónimas as informações sensíveis e cumprir os regulamentos de proteção de dados. O sistema deve ser transparente quanto à forma como os dados são utilizados e dar aos utilizadores controlo sobre as suas informações.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
-## Challenges
+## Desafios
 
 Embora este sistema de IA tenha como objetivo melhorar a comunicação interna e o envolvimento dos colaboradores, há vários aspetos que não resolve. O sistema não consegue substituir totalmente o discernimento humano, a inteligência emocional ou as interações pessoais entre os colaboradores. Pode identificar problemas de comunicação e sugerir melhorias, mas não pode garantir que as pessoas sigam essas recomendações ou alterem o seu comportamento. Além disso, não consegue resolver problemas organizacionais mais profundos, tais como má liderança, questões relacionadas com a cultura empresarial ou conflitos entre colaboradores.
 
@@ -84,7 +59,7 @@ A assistência de diferentes áreas também seria importante. A colaboração co
 
 Em suma, com as competências e o apoio adequados, este projeto poderá tornar-se uma ferramenta poderosa capaz de melhorar significativamente a comunicação e a produtividade nos locais de trabalho modernos.
 
-## Acknowledgments
+## Agradecimentos
 
 Gostaria de agradecer a inspiração e o apoio que contribuíram para o desenvolvimento desta ideia. Os conceitos aprendidos ao longo do curso desempenharam um papel fundamental na definição do projeto, especialmente a compreensão de como a inteligência artificial pode ser utilizada para analisar dados e resolver problemas do mundo real.
 
