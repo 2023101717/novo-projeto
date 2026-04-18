@@ -1,7 +1,7 @@
 
 # IA para Otimização da Comunicação Interna
 
-## Sumário
+## Summary
 
 Este projeto apresenta um sistema baseado em inteligência artificial concebido para melhorar a comunicação interna e o envolvimento dos colaboradores dentro das organizações. A comunicação eficaz desempenha um papel fundamental na produtividade, colaboração e satisfação geral no local de trabalho. No entanto, muitas empresas enfrentam desafios como mensagens pouco claras, excesso de informação, falta de feedback e baixo envolvimento dos colaboradores. Este sistema pretende resolver esses problemas através da utilização de inteligência artificial para analisar padrões de comunicação e fornecer insights acionáveis.
 
