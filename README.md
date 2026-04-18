@@ -29,15 +29,9 @@ Esta solução é especialmente útil em ambientes de trabalho modernos, onde a 
 
 Os principais utilizadores deste sistema são empresas, gestores, equipas de recursos humanos e colaboradores. Os gestores e as equipas de recursos humanos podem utilizá-lo para melhorar os processos internos e o envolvimento dos colaboradores, enquanto os colaboradores beneficiam de uma comunicação mais clara e eficaz. Ao desenvolver esta solução, é importante considerar as necessidades dos utilizadores, como a privacidade, a facilidade de utilização e a acessibilidade. O sistema deve garantir a proteção de dados sensíveis e assegurar que a interface é simples e intuitiva para todos os utilizadores.
 
+https://github.com/2023101717/novo-projeto/blob/main/Use%20AI%20Image%20Apr%2018%2C%202026%2C%2015_05_56.png
 
 
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
